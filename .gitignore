@@ -1,1 +1,5 @@
+# Ignore python notebooks specific files
 .ipynb_checkpoints
+
+# Ignore outputs/
+outputs/
